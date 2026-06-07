@@ -1,5 +1,5 @@
 # 6G-Oriented QoS-Aware DRL Routing in LEO Constellations
-Sunny
+
 ## 🚀 Major Redesign - Publication-Quality Performance
 
 This project implements an **intelligent Deep Reinforcement Learning (DRL) routing system** for 6G Non-Terrestrial Network (NTN) LEO satellite constellations. The system has been completely redesigned to achieve publication-quality performance with **direct neighbor selection**, **hierarchical multi-objective rewards**, and **graph-aware observations**.
@@ -220,25 +220,13 @@ python run_prediction.py --all
 - **Attention Mechanisms** - Enhanced prediction accuracy
 - **Real-time Adaptation** - Dynamic traffic adjustment
 
-## Citation
-
-If using this system for research or publication:
-
-```bibtex
-@article{6g_ntn_drl_routing,
-  title={Intelligent QoS-Aware Routing for 6G NTN LEO Constellations using Deep Reinforcement Learning},
-  author={Your Name},
-  journal={IEEE/ACM Transactions on Networking},
-  year={2026}
-}
-```
 
 ## License
 
 MIT License - See LICENSE file for details
 
 ## Acknowledgments
-
+- Sunny Agarwal & Subham Raj
 - Stable-Baselines3 for PPO implementation
 - NetworkX for graph algorithms
 - Matplotlib for visualization
